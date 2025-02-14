@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "188502495324",
+    "firebase_url": "https://recipesapp-ae7c5-default-rtdb.firebaseio.com",
+    "project_id": "recipesapp-ae7c5",
+    "storage_bucket": "recipesapp-ae7c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188502495324:android:a27c1d0990f82c2dfa5699",
+        "android_client_info": {
+          "package_name": "com.example.mybooks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH2vbGZ_SOyzgfOGXgthoim5wKkpeiH0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188502495324:android:7469628525264b1bfa5699",
+        "android_client_info": {
+          "package_name": "com.example.myrecipes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH2vbGZ_SOyzgfOGXgthoim5wKkpeiH0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188502495324:android:f3629071c961142dfa5699",
+        "android_client_info": {
+          "package_name": "com.example.recipeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH2vbGZ_SOyzgfOGXgthoim5wKkpeiH0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
